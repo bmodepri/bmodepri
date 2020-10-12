@@ -10,7 +10,7 @@
 &nbsp;
 
 [![linkedin](https://img.shields.io/badge/Linkedin-Priscila%20Garcia-green)](https://www.linkedin.com/in/priscila-garcia-5041a531/)
-<a href="mailto:priscila.migarcia@gmail.com">![email](https://img.shields.io/badge/e--mail-priscila.migarciaqgmail.com-blue)</a>
+<a href="mailto:priscila.migarcia@gmail.com">![email](https://img.shields.io/badge/e--mail-priscila.migarcia@gmail.com-blue)</a>
 
 
 
