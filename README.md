@@ -20,7 +20,7 @@
 
 &nbsp;
 
-## Languages and I use mostly
+## Languages that I use mostly
 &nbsp;
 
 [![Top Langs](https://github-readme-stats-bmodepri.vercel.app/api/top-langs/?username=bmodepri&layout=compact&count_private=true&hide=shell,ruby)](https://github.com/bmodepri) 
