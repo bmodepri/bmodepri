@@ -2,7 +2,7 @@
 
 ## About me
 &nbsp;
-### 💻 I'm a fullstack developer
+### 💻 Software Engineer
 ### ✅currently working at [Zalando](www.zalando.de)
 &nbsp;
 
